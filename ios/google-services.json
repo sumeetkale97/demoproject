@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433723011600",
+    "firebase_url": "https://demoproject-e7de7.firebaseio.com",
+    "project_id": "demoproject-e7de7",
+    "storage_bucket": "demoproject-e7de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433723011600:android:e9e2a8324b0a426d425095",
+        "android_client_info": {
+          "package_name": "com.demoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433723011600-6uhumtpu2agp6umph70b2irg1ks4m0ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqYijsVPFhAKWJfdFygbQyoqMg8Y0mqBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433723011600-6uhumtpu2agp6umph70b2irg1ks4m0ng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433723011600-onj7ou2057a62ptof9vhv3ef9ckl6dee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.demoproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
